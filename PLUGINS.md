@@ -76,6 +76,13 @@
 | deepseek-skin-studio | [JueMing2049/deepseek-skin-studio](https://github.com/JueMing2049/deepseek-skin-studio) | DSH 换肤工作室：一张图一套皮肤，三通道注入（书签/CDP/原生插件）+ 可视化工坊 + 13 套内置主题 + DSH-SKIN-SPEC 导出 | 待测 |
 | dsh-agent-preset-recommender | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 隐私安全本地扫描 Codex、Claude Code、WorkBuddy、CodeBuddy 的会话/workflow 元数据，持久化聚合证据并推荐 DSH 内置 Agent preset；不保留正文、不联网、不自动修改 preset | 待测 |
 | dsh-ptc-minimal | [STARDUSTLC666/dsh-ptc-minimal](https://github.com/STARDUSTLC666/dsh-ptc-minimal) | 极简 PTC 模式 Agent 预设：一句 RL 对齐提示词 + PTC 全量工具（Code Mode SDK 多步编排/文件/Shell/检索/Skills/计划/子代理/工作流），安装即物化到用户预设目录，不覆盖用户自建预设 | 待测 |
+| dsh-rss | [STARDUSTLC666/dsh-rss](https://github.com/STARDUSTLC666/dsh-rss) | RSS/Atom 订阅工具：rss_list/add/remove/fetch/check/opml_export/opml_import 七工具，OPML 导入导出与 content 正文保留，代理支持，npm 0.2.0 | 待测 |
+| dsh-voice | [STARDUSTLC666/dsh-voice](https://github.com/STARDUSTLC666/dsh-voice) | 语音双件套：voice_tts（edge-tts 免费微软神经语音）/ voice_stt（OpenAI 兼容 ASR）/ voice_list，WebSocket 直连，插件级代理 | 待测 |
+| dsh-codex-port | [STARDUSTLC666/dsh-codex-port](https://github.com/STARDUSTLC666/dsh-codex-port) | 把 ~/.codex 官方插件（186 插件、583 技能）一键移植为 DSH 技能：codex_list/port/status，frontmatter 转换、幂等跳过，技能可跨 harness | 待测 |
+| dsh-sql | [STARDUSTLC666/dsh-sql](https://github.com/STARDUSTLC666/dsh-sql) | 工程师级数据库：sql_list/query/exec/schema，SQLite/MySQL/PostgreSQL 三引擎、多连接、只读模式与写审批门、行数钳制 | 待测 |
+| dsh-flakefinder | [STARDUSTLC666/dsh-flakefinder](https://github.com/STARDUSTLC666/dsh-flakefinder) | 测试稳定性：flaky_detect/history/quarantine/clear/report，重复运行识别 flaky 用例，隔离清单与历史，零运行时依赖 | 待测 |
+| dsh-cite | [STARDUSTLC666/dsh-cite](https://github.com/STARDUSTLC666/dsh-cite) | 参考文献：cite_lookup/cite_format/cite_bibtex/cite_check，Crossref 查询，GB/T 7714 / APA / MLA / Chicago 与 BibTeX | 待测 |
+| dsh-secure-review | [STARDUSTLC666/dsh-secure-review](https://github.com/STARDUSTLC666/dsh-secure-review) | AI 代码安全审查：secure_scan/diff/fix_verify/report/export/policy_*，40+ 确定性规则、密钥熵检测、staged diff 审查、SARIF 导出 | 待测 |
 ## 🧰 插件集
 
 | dsh-subagent-tools | [lynx-gt/dsh-subagent-tools](https://github.com/lynx-gt/dsh-subagent-tools) | 子代理委派按次覆盖 model/provider/persona/toolFilter、@preset: 引用、provider/model 复合 id（bundle，不改官方文件）；rc.6 headless+web 实测通过 | ✅ |
@@ -86,6 +93,8 @@
 
 | dsh-review-skills | [ben7am1n/dsh-review-skills](https://github.com/ben7am1n/dsh-review-skills) | Engineering-discipline skill pack — code-review, simplify, plan-then-execute, test-first, resolve-conflict; bundled ctx.skills provider | 待测 |
 | dsh-ppt | [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) | PPT 技能 + 工具：一句话/文档 → HTML 放映 + PPTX 导出，5 套主题，中英双语，裸 SKILL.md 跨 harness | 待测 |
+| dsh-remotion | [STARDUSTLC666/dsh-remotion](https://github.com/STARDUSTLC666/dsh-remotion) | Remotion 官方技能移植：React 编程式视频（动画/音频/字幕/3D/图表/字体），38 个规则文件，技能可跨 harness | 待测 |
+| dsh-hyperframes | [STARDUSTLC666/dsh-hyperframes](https://github.com/STARDUSTLC666/dsh-hyperframes) | HyperFrames by HeyGen 五件套：HTML 写视频、GSAP 动画、字幕、配音、音频响应、网址转视频 | 待测 |
 | project-blueprint | [shuguang1994/project-blueprint](https://github.com/shuguang1994/project-blueprint) | ❌ | ❌ |
 
 ## 📡 远程渠道
