@@ -82,7 +82,7 @@
 | dsh-sql | [STARDUSTLC666/dsh-sql](https://github.com/STARDUSTLC666/dsh-sql) | 工程师级数据库：sql_list/query/exec/schema，SQLite/MySQL/PostgreSQL 三引擎、多连接、只读模式与写审批门、行数钳制 | 待测 |
 | dsh-flakefinder | [STARDUSTLC666/dsh-flakefinder](https://github.com/STARDUSTLC666/dsh-flakefinder) | 测试稳定性：flaky_detect/history/quarantine/clear/report，重复运行识别 flaky 用例，隔离清单与历史，零运行时依赖 | 待测 |
 | dsh-cite | [STARDUSTLC666/dsh-cite](https://github.com/STARDUSTLC666/dsh-cite) | 参考文献：cite_lookup/cite_format/cite_bibtex/cite_check，Crossref 查询，GB/T 7714 / APA / MLA / Chicago 与 BibTeX | 待测 |
-| dsh-secure-review | [STARDUSTLC666/dsh-secure-review](https://github.com/STARDUSTLC666/dsh-secure-review) | AI 代码安全审查：secure_scan/diff/fix_verify/report/export/policy_*，40+ 确定性规则、密钥熵检测、staged diff 审查、SARIF 导出 | 待测 |
+| dsh-code-security | [STARDUSTLC666/dsh-code-security](https://github.com/STARDUSTLC666/dsh-code-security) | AI 代码安全审查：secure_scan/diff/fix_verify/report/export/baseline/deps/policy_*，40+ 确定性规则、密钥熵检测、staged diff 审查、SARIF 导出、基线接受与 SBOM-lite | 待测 |
 ## 🧰 插件集
 
 | dsh-subagent-tools | [lynx-gt/dsh-subagent-tools](https://github.com/lynx-gt/dsh-subagent-tools) | 子代理委派按次覆盖 model/provider/persona/toolFilter、@preset: 引用、provider/model 复合 id（bundle，不改官方文件）；rc.6 headless+web 实测通过 | ✅ |
