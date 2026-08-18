@@ -70,11 +70,11 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-19 05:39（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-19 05:55（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 66782 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 66784 | Compress tool outputs, logs, files, and RAG chunks befo… |
 | 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4563 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3094 | The first vision plugin for DeepSeek Harness, and the v… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2171 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
