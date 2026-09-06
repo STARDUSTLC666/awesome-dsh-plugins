@@ -73,18 +73,18 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-07 01:04（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-07 03:13（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 69109 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 7006 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 69124 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 7013 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3890 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3370 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
-| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2858 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
-| 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1527 | Local-first AI token usage & cost tracker for 31 coding… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3372 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2860 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1528 | Local-first AI token usage & cost tracker for 31 coding… |
 | 7 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1409 | AgentTeams plugin for DeepSeek Harness |
-| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1076 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
+| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1075 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
 | 9 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 984 | :zap:The ultimate image uploading engine. Both CLI & AP… |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 855 | [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
 | 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 642 | Local-first, self-hosted AI agent runtime and MCP bridg… |
