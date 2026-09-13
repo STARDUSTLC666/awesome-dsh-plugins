@@ -73,25 +73,25 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-13 22:38（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-14 01:37（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 71832 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 7502 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
-| 3 | [modlens](https://github.com/liustack/modlens) | 3962 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3559 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
-| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 3000 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
-| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1607 | AgentTeams plugin for DeepSeek Harness |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 71869 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 7505 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
+| 3 | [modlens](https://github.com/liustack/modlens) | 3963 | The first vision plugin for DeepSeek Harness, and the v… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3564 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 3004 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1611 | AgentTeams plugin for DeepSeek Harness |
 | 7 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1596 | Local-first AI token usage & cost tracker for 31 coding… |
-| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1101 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
+| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1102 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
 | 9 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 985 | :zap:The ultimate image uploading engine. Both CLI & AP… |
-| 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 880 | [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
-| 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 642 | Local-first, self-hosted AI agent runtime and MCP bridg… |
-| 12 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 641 | Chrome sidebar extension that lets DeepSeek Harness ope… |
-| 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 621 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 14 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 585 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
-| 15 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 511 | Codex-style @file mentions for DeepSeek Harness: search… |
+| 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 881 | [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
+| 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 643 | Local-first, self-hosted AI agent runtime and MCP bridg… |
+| 12 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 642 | Chrome sidebar extension that lets DeepSeek Harness ope… |
+| 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 623 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 14 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 584 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
+| 15 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 510 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 16 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 444 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 17 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 373 | Open-source alternative to Claude Cowork — a local-firs… |
 | 18 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 365 | Composable, view-based memory for DeepSeek Harness. Plu… |
