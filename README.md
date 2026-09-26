@@ -73,27 +73,27 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-26 17:53（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-26 21:57（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 73837 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 8022 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
-| 3 | [modlens](https://github.com/liustack/modlens) | 4037 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3758 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
-| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 3176 | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TP… |
-| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1806 | AgentTeams plugin for DeepSeek Harness |
-| 7 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1726 | Local-first AI token usage & cost tracker for 31 coding… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 73851 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 8030 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
+| 3 | [modlens](https://github.com/liustack/modlens) | 4041 | The first vision plugin for DeepSeek Harness, and the v… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3760 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 3245 | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TP… |
+| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1807 | AgentTeams plugin for DeepSeek Harness |
+| 7 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1727 | Local-first AI token usage & cost tracker for 31 coding… |
 | 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1120 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
 | 9 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 991 | :zap:The ultimate image uploading engine. Both CLI & AP… |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 884 | [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
-| 11 | [dsh-browser](https://github.com/omdsh-dev/dsh-browser) | 727 | Chrome sidebar extension that lets DeepSeek Harness ope… |
+| 11 | [dsh-browser](https://github.com/omdsh-dev/dsh-browser) | 728 | Chrome sidebar extension that lets DeepSeek Harness ope… |
 | 12 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 673 | Local-first, self-hosted AI agent runtime and MCP bridg… |
 | 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 633 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 14 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 586 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 15 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 513 | Codex-style @file mentions for DeepSeek Harness: search… |
-| 16 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 480 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 413 | Composable, view-based memory for DeepSeek Harness. Plu… |
+| 16 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 481 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 414 | Composable, view-based memory for DeepSeek Harness. Plu… |
 | 18 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 386 | Open-source alternative to Claude Cowork — a local-firs… |
 | 19 | [whale-girl](https://github.com/vlln/whale-girl) | 337 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 20 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 335 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
