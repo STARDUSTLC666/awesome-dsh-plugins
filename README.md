@@ -73,15 +73,15 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-10-05 04:38（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-10-05 07:34（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 74413 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 8365 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 74422 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 8366 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 4121 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 4026 | DSH's officially top-recommended TUI plugin — high perf… |
-| 5 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3991 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 4 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 4030 | DSH's officially top-recommended TUI plugin — high perf… |
+| 5 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3992 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1963 | Local-first AI token usage & cost tracker for 31 coding… |
 | 7 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1922 | AgentTeams plugin for DeepSeek Harness |
 | 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1126 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
@@ -93,8 +93,8 @@ flowchart TB
 | 14 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 591 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 15 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 515 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 16 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 511 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 452 | Composable, view-based memory for DeepSeek Harness. Plu… |
-| 18 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 390 | Open-source alternative to Claude Cowork — a local-firs… |
+| 17 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 453 | Composable, view-based memory for DeepSeek Harness. Plu… |
+| 18 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 391 | Open-source alternative to Claude Cowork — a local-firs… |
 | 19 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 355 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 20 | [whale-girl](https://github.com/vlln/whale-girl) | 344 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 
