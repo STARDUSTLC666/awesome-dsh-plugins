@@ -70,13 +70,13 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-10-26 03:56（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-10-26 06:12（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 77806 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 9507 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 5774 | DSH's officially top-recommended TUI plugin — high perf… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 77809 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 9509 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 5780 | DSH's officially top-recommended TUI plugin — high perf… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 4543 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 5 | [modlens](https://github.com/liustack/modlens) | 4460 | The first vision plugin for DeepSeek Harness, and the v… |
 | 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 2433 | DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组… |
