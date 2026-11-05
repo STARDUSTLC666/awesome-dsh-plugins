@@ -70,30 +70,30 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-11-05 10:28（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-11-05 17:47（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 78869 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 10081 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
-| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 6905 | DSH's officially top-recommended TUI plugin — high perf… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 4893 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
-| 5 | [modlens](https://github.com/liustack/modlens) | 4766 | The first vision plugin for DeepSeek Harness, and the v… |
-| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 2697 | DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组… |
-| 7 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 2192 | Local-first AI token usage & cost tracker for 31 coding… |
-| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1218 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 78888 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 10102 | DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜Dee… |
+| 3 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 6955 | DSH's officially top-recommended TUI plugin — high perf… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 4908 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 5 | [modlens](https://github.com/liustack/modlens) | 4771 | The first vision plugin for DeepSeek Harness, and the v… |
+| 6 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 2705 | DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组… |
+| 7 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 2193 | Local-first AI token usage & cost tracker for 31 coding… |
+| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1221 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
 | 9 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 994 | :zap:The ultimate image uploading engine. Both CLI & AP… |
-| 10 | [dsh-browser](https://github.com/omdsh-dev/dsh-browser) | 983 | Chrome sidebar extension that lets DeepSeek Harness ope… |
+| 10 | [dsh-browser](https://github.com/omdsh-dev/dsh-browser) | 987 | Chrome sidebar extension that lets DeepSeek Harness ope… |
 | 11 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 926 | [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
-| 12 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 882 | Composable, view-based context for DeepSeek Harness. Pl… |
-| 13 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 855 | GenUI for DeepSeek Harness: interactive UI components r… |
-| 14 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 710 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 15 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 642 | Local-first, self-hosted AI agent runtime and MCP bridg… |
-| 16 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 606 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
+| 12 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 888 | Composable, view-based context for DeepSeek Harness. Pl… |
+| 13 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 860 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 14 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 711 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
+| 15 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 640 | Local-first, self-hosted AI agent runtime and MCP bridg… |
+| 16 | [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 615 | 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · … |
 | 17 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 560 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 18 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 488 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 19 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 419 | Open-source AI office assistant for your desktop: descr… |
-| 20 | [whale-girl](https://github.com/vlln/whale-girl) | 402 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
+| 20 | [whale-girl](https://github.com/vlln/whale-girl) | 403 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 
 <!-- AUTO:featured:END -->
 
